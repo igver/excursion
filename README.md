@@ -17,4 +17,4 @@ _____
 _____
 ### Finished project
 
-[Live preview of project](https://igver.github.io/excursion/)
+<a href="https://igver.github.io/excursion/" target="_blank">Live preview of project</a>
